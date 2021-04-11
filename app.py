@@ -1,6 +1,6 @@
 import numpy as np
 import streamlit as st
-from utils.data_structures import Graph, MinHeap
+from utils.data_structures import Graph
 from utils.datagen import DataGenerator
 
 st.set_page_config(page_title='Shelby')
